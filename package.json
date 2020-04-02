@@ -18,7 +18,8 @@
   "homepage": "https://github.com/rovast/emmet.css#readme",
   "scripts": {
     "gulp": "node_modules/.bin/gulp",
-    "dev": "npm run gulp"
+    "dev": "npm run gulp",
+    "build": "npm run gulp"
   },
   "devDependencies": {
     "fs": "0.0.1-security",
