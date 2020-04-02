@@ -14,7 +14,7 @@ Based on [emmet](https://docs.emmet.io/cheat-sheet/) short rules.
 </div>
 ```
 
-[!flex](./example/flex.png)
+[!flex](https://raw.githubusercontent.com/rovast/emmet.css/master/example/flex.png)
 
 ## Thanks to
 
