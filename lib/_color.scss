@@ -2,9 +2,9 @@ $colors: 333, 666, 999, ccc, fff;
 
 @each $color in $colors {
   .bgc-#{$color} {
-    background-color: #{'#' + $color};
+    background-color: #{'#' + $color} !important;
   }
   .c-#{$color} {
-    color: #{'#' + $color};
+    color: #{'#' + $color} !important;
   }
 }
