@@ -4,6 +4,12 @@ Just focus on HTML Writing, without dancing between css file and html file.
 
 Based on [emmet](https://docs.emmet.io/cheat-sheet/) short rules.
 
+## Installation
+
+```shell script
+npm install @rovast/emmet.css
+```
+
 ## Quick start
 
 ```html
