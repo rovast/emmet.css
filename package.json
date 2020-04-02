@@ -1,0 +1,29 @@
+{
+  "name": "emmet.css",
+  "version": "1.0.0",
+  "description": "Emmet inspired css util.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rovast/emmet.css.git"
+  },
+  "keywords": [
+    "emmet",
+    "css"
+  ],
+  "author": "rovast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rovast/emmet.css/issues"
+  },
+  "homepage": "https://github.com/rovast/emmet.css#readme",
+  "scripts": {
+    "gulp": "node_modules/.bin/gulp",
+    "dev": "npm run gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-cssbeautify": "^2.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
