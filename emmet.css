@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+/*!
+ * emmet.css -https://github.com/rovast/emmet.css#readme
+ * Version - 1.0.0
+ * Licensed under the MIT license - https://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2020 
+ */
+
+.bgc-333 {
+  background-color: #333
+}
+.c-333 {
+  color: #333
+}
+.bgc-666 {
+  background-color: #666
+}
+.c-666 {
+  color: #666
+}
+.bgc-999 {
+  background-color: #999
+}
+.c-999 {
+  color: #999
+}
+.bgc-ccc {
+  background-color: #ccc
+}
+.c-ccc {
+  color: #ccc
+}
+.bgc-fff {
+  background-color: #fff
+}
+.c-fff {
+  color: #fff
+}
+.d-f {
+  display: flex
+}
+.ai-b {
+  align-items: baseline
+}
+.ai-c {
+  align-items: center
+}
+.ai-fe {
+  align-items: flex-end
+}
+.ai-fs {
+  align-items: flex-start
+}
+.ai-s {
+  align-items: stretch
+}
+.as-b {
+  align-self: baseline
+}
+.as-c {
+  align-self: center
+}
+.as-fe {
+  align-self: flex-end
+}
+.as-fs {
+  align-self: flex-start
+}
+.as-s {
+  align-self: stretch
+}
+.fxd-c {
+  flex-direction: column
+}
+.fxdc-r {
+  flex-direction: column-reverse
+}
+.fxd-r {
+  flex-direction: row
+}
+.fxd-rr {
+  flex-direction: row-reverse
+}
+.fxw-n {
+  flex-wrap: nowrap
+}
+.fxw-w {
+  flex-wrap: wrap
+}
+.fxw-wr {
+  flex-wrap: wrap-reverse
+}
+.jc-c {
+  justify-content: center
+}
+.jc-fe {
+  justify-content: flex-end
+}
+.jc-fs {
+  justify-content: flex-start
+}
+.jc-sa {
+  justify-content: space-around
+}
+.jc-sb {
+  justify-content: space-between
+}
