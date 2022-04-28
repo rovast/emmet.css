@@ -1,32 +1,34 @@
 {
   "name": "@rovast/emmet.css",
   "version": "1.0.0",
-  "description": "Emmet inspired css util.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rovast/emmet.css.git"
+  "description": "Emmet + CSS = emmet.css",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   },
-  "keywords": [
-    "emmet",
-    "css"
-  ],
-  "author": "rovast",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rovast/emmet.css/issues"
-  },
-  "homepage": "https://github.com/rovast/emmet.css#readme",
   "scripts": {
     "gulp": "node_modules/.bin/gulp",
     "dev": "npm run gulp",
     "build": "npm run gulp"
   },
   "devDependencies": {
-    "fs": "0.0.1-security",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-header": "^2.0.9",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.0.2"
-  }
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.51.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rovast/emmet.css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rovast/emmet.css/issues"
+  },
+  "homepage": "https://github.com/rovast/emmet.css#readme"
 }
